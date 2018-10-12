@@ -11,7 +11,6 @@ import UIKit
 // This is a test
 // This is another test
 
-// One more comment
 
 class ViewController: UIViewController {
 
@@ -22,4 +21,6 @@ class ViewController: UIViewController {
 
 
 }
+
+// End of the file
 
