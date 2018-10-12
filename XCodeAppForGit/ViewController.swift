@@ -22,5 +22,3 @@ class ViewController: UIViewController {
 
 }
 
-// End of the file
-
